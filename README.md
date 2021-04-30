@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="mailto:alokrathava@gmail.com"><img height="75px" width="75px" src="https://github.com/alokrathava/Assets/blob/master/icons/gmail.png" alt="gmail"></a>
 
 <h4>Donate On</h4>
-img height="75px" width="75px" src="https://github.com/alokrathava/Assets/blob/master/icons/ltc.png">
+<img height="75px" width="75px" src="https://github.com/alokrathava/Assets/blob/master/icons/ltc.png">
 <h3>LiteCoin:- </h3?
 <h4>LTXRK8tg1QsEET72U84VyVJmNvyJ5o1AWF</h4>
 <p>Wallet</p>

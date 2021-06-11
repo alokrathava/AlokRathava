@@ -1,12 +1,9 @@
-## Hi there 👋
+
+## Alokkumar Rathava
+CS enthusiast try all the aspects of creating my world by technologies, half year of experience in Android and Web development, project consultant. Business consultant and Early Investor.
 
 
-Here are some ideas to get you started:
 
-//  🔭 I’m currently working as Android and Full Stack developer
-//  🌱 I’m currently learning Kotlin  
-//  👯 I’m looking to collaborate on Freelance
-//  📫 How to reach me: 
 
 <div style="margin:20px;">
 <h4>Follow me On</h4>

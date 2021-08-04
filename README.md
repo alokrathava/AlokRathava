@@ -6,8 +6,9 @@ CS enthusiast try all the aspects of creating my world by technologies, half yea
 
 <img src="https://github-readme-stats.vercel.app/api?username=alokrathava" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrathava" />
 
-<div style="margin:20px;">
+<!-- <div style="margin:20px;">
 <h4>Follow me On</h4>
 <a href="https://www.instagram.com/alok_rathava/"><img height="75px" width="75px" src="https://github.com/alokrathava/Assets/blob/master/icons/instagram.png" alt="instagram"></a>
 
@@ -22,4 +23,4 @@ CS enthusiast try all the aspects of creating my world by technologies, half yea
 <h3>LiteCoin:- </h3?
 <h4>LTXRK8tg1QsEET72U84VyVJmNvyJ5o1AWF</h4>
 <p>Wallet</p>
-</div>
+</div> -->

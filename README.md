@@ -6,7 +6,9 @@ CS enthusiast try all the aspects of creating my world by technologies, half yea
 
 <img src="https://github-readme-stats.vercel.app/api?username=alokrathava" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrathava" />
+<span align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrathava" /> </span>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alokrathava" />
 
 <!-- <div style="margin:20px;">
 <h4>Follow me On</h4>

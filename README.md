@@ -3,7 +3,7 @@
 # Alokkumar Rathava
 **Android Robotics Engineer**
 
-alokrathava@gmail.com | +1 437-989-7419 | [GitHub](https://github.com/alokrathava) | [LinkedIn](https://linkedin.com/in/alokrathava)
+alokrathava@gmail.com | +1 437-989-7419 | [GitHub](https://github.com/alokrathava) | [LinkedIn](https://www.linkedin.com/in/alokkumar-rathava-16a8aa1a3/)
 
 </div>
 

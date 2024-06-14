@@ -12,7 +12,7 @@ alokrathava@gmail.com | +1 437-989-7419 | [GitHub](https://github.com/alokrathav
 ---
 
 ## Summary
-Highly skilled Android Robotics Engineer with over 4 years of experience in developing innovative applications and optimizing robot performance. Proficient in Kotlin and Java, with a proven track record of enhancing application efficiency and user satisfaction. Experienced in leading cross-functional teams and managing complex projects. Certified in Google Project Management, adept in Agile and Scrum methodologies.
+Highly skilled Android Robotics Engineer with over 3 years of experience in developing innovative applications and optimizing robot performance. Proficient in Kotlin and Java, with a proven track record of enhancing application efficiency and user satisfaction. Experienced in leading cross-functional teams and managing complex projects. Certified in Google Project Management, adept in Agile and Scrum methodologies.
 
 ---
 

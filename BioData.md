@@ -41,4 +41,4 @@
 - **Google Project Management Certification**
 
 ## Future Ambition
-- Aspires to create one of the best defense industry complexes.
+- Aspires to create one of the best defense industrial complexes.

@@ -1,12 +1,25 @@
 # Biodata
 
 ## Personal Information
+<table>
+<tr>
+<td style="vertical-align:top;">
+
 - **Name:** Alokkumar Rathava
 - **Date of Birth:** 24/01/1999
 - **Height:** 5'11"
 - **City:** Toronto, ON, Canada
 - **Social Media:**
   - **Instagram:** [alokrathava.me](https://www.instagram.com/alokrathava.me)
+
+</td>
+<td style="vertical-align:top; text-align:right;">
+
+<img src="https://github.com/alokrathava/AlokRathava/blob/main/IMG-20240301-WA0007~3.jpg" alt="Alokkumar Rathava" width="150"/>
+
+</td>
+</tr>
+</table>
 
 ## Professional Information
 - **Occupation:** Android Robotics Developer

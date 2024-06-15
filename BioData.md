@@ -39,6 +39,7 @@
 
 ## Certification
 - **Google Project Management Certification**
+   - Expert in Agile and Scrum methodologies, ensuring efficient and innovative project management
 
 ## Future Ambition
 - Aspires to create one of the best defense industrial complexes.

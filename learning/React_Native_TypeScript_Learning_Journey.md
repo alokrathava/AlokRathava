@@ -1,7 +1,7 @@
 
 # React Native with TypeScript Learning Journey
 
-## 6-Week Timeline, Syllabus, and Projects
+## 6-Week Learning Syllabus
 
 ### Week 1: Introduction to TypeScript
 **Goals:**

@@ -48,11 +48,11 @@
 - **Seneca College, Toronto, ON**
   - Information Technology Specialist Staff (August 2022 - December 2022)
 - **Enlighten Infosystems, Vadodara, India**
-  - Junior Software Engineer (December 2020 – August 2021)-->
+  - Junior Software Engineer (December 2020 – August 2021)
 
 ## Certification
 - **Google Project Management Certification**
-   - Expert in Agile and Scrum methodologies, ensuring efficient and innovative project management
+   - Expert in Agile and Scrum methodologies, ensuring efficient and innovative project management -->
 
 ## Future Ambition
 - Aspires to create one of the best defense industrial complexes.

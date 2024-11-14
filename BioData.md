@@ -40,7 +40,7 @@
 
 ## Work
 - **GlobalDWS Corporation, Toronto, ON**
-  - Android ROS Engineer (January 2024 - Present)
+  - Android ROS Engineer (Robotics Engineer)(January 2024 - Present)
 <!--- **Advngers, Toronto, ON**
   - Co-Founder and Chief Operating Officer (August 2024 - Present)
 - **Delish Meals, Toronto, ON**

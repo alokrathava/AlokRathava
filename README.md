@@ -73,4 +73,4 @@
 ---
 
 ## Certifications
-* **Certified Scrum Master (CSM)** – Scrum Alliance (Jan 2025).
+* **Certified Scrum Master (CSM)** – Scrum Alliance (Jan 2026).

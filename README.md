@@ -30,28 +30,19 @@ Current SDK work includes:
 
 The goal is to provide application teams with a clean robot-facing API without coupling their UI or business logic directly to robotics middleware or hardware implementation details.
 
-### 🦾 Gracebot
-**Android · Robotics · Jetpack Compose · SLAM · On-device ML**
-
-At **GlobalDWS**, I work on Gracebot, a social-engagement and autonomous-delivery robotics platform for healthcare and hospitality.
-
-My work has included Android platform architecture, robot SDK development, SLAM-based navigation integration, on-device vision, accessible Compose interfaces, performance profiling, and collaboration across mobile, backend, robotics, and hardware systems.
-
-Today I provide technical direction across an 11-person cross-functional team while remaining hands-on with architecture, integration, and engineering decisions.
-
 ---
 
 ## Experience
 
-### GlobalDWS — Technical Product Manager · Gracebot
+### GlobalDWS — Technical Product Manager
 **Jun 2026 — Present**
 
-Technical direction for a modular Android robotics platform, with continued hands-on work across architecture, SDKs, performance, and robot integration.
+Technical product leadership across Android and robotics software, while staying close to architecture, platform engineering, integration, and performance work.
 
 ### GlobalDWS — Android Developer
 **Jan 2024 — May 2026**
 
-Worked across Android robotics applications, SDK architecture, Jetpack Compose, ROS integration, JNI, navigation, on-device ML, and platform performance.
+Worked on Android and robotics software using Kotlin, Jetpack Compose, SDK architecture, system integration, and performance engineering.
 
 ### Enlightenment Infosystems — Junior Android Developer
 **Dec 2020 — Aug 2021**
@@ -79,7 +70,7 @@ Built and maintained Android applications using Java, Kotlin, MVVM, and Retrofit
 Android robot controller and public-facing Kotlin Robot SDK work for communicating with ROS2-based robot systems.
 
 ### [Android & Robotics Portfolio](https://alokrathava.com)
-Case studies covering Android, robotics, SDK/platform engineering, and the systems behind the interfaces.
+My broader engineering portfolio and selected independently publishable work.
 
 ---
 

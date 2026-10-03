@@ -1,76 +1,97 @@
-# Alokkumar Rathava
-**Toronto, ON** | [alokrathava@gmail.com](mailto:alokrathava@gmail.com) | 4379897419
-[LinkedIn](https://linkedin.com/in/alokrathava/) | [alokrathava.com](https://alokrathava.com)
+# Alok Rathava
+
+**Android & Robotics Engineer · SDK / Platform Engineering · ROS2**
+
+I build software at the boundary between **Android applications, developer SDKs, and autonomous robots**. My work spans Kotlin and Jetpack Compose, SDK architecture, real-time robot communication, ROS2/Nav2 integration, C++/JNI, on-device ML, and performance engineering.
+
+[Portfolio](https://alokrathava.com) · [LinkedIn](https://www.linkedin.com/in/alokrathava/) · [GitHub](https://github.com/alokrathava)
 
 ---
 
-## Professional Summary
-**Android Developer** focused on building robotics-assisted applications for senior care and high-security distributed systems. Experienced in **Kotlin**, **Jetpack Compose**, and **on-device AI/ML**, currently aiming to transition into technical leadership or Android Lead roles.
+## What I'm Working On
+
+### 🤖 Robot SDK
+**Kotlin · Android SDK · WebSockets · ROS2 · Coroutines / Flow**
+
+[Robot-Controller](https://github.com/alokrathava/Robot-Controller) contains my current public Robot SDK work: a framework-neutral Kotlin client designed to connect Android applications to a ROS2 robot control stack.
+
+Current SDK work includes:
+
+- Reactive robot state with Kotlin `StateFlow`
+- Manual motion, navigation, docking, and safety APIs
+- Map and saved-location management
+- Typed command results and structured robot errors
+- Automatic reconnection and telemetry freshness tracking
+- Capability negotiation and connection metrics
+- TLS/WSS support and credential abstractions
+- Multi-robot client management
+- Protocol fixtures and SDK test infrastructure
+- Maven/AAR packaging and R8/ProGuard consumer rules
+
+The goal is to provide application teams with a clean robot-facing API without coupling their UI or business logic directly to robotics middleware or hardware implementation details.
+
+### 🦾 Gracebot
+**Android · Robotics · Jetpack Compose · SLAM · On-device ML**
+
+At **GlobalDWS**, I work on Gracebot, a social-engagement and autonomous-delivery robotics platform for healthcare and hospitality.
+
+My work has included Android platform architecture, robot SDK development, SLAM-based navigation integration, on-device vision, accessible Compose interfaces, performance profiling, and collaboration across mobile, backend, robotics, and hardware systems.
+
+Today I provide technical direction across an 11-person cross-functional team while remaining hands-on with architecture, integration, and engineering decisions.
 
 ---
 
-## Technical Skills
-* **Core Expertise:** Kotlin, Jetpack Compose, Android SDK, **Device Policy Controller (DPC)**, **VPN Service API**, Firebase (Auth, Firestore, Cloud Messaging), Room, Retrofit, WebSockets.
-* **Programming Languages:** Java, Kotlin, TypeScript, JavaScript, Python, C++, PHP.
-* **Architecture:** MVVM, MVP, OOP, **Distributed Systems Architecture**, Dependency Injection (Dagger/Hilt).
-* **AI & Robotics Integration:** **Gemini Nano (On-Device LLM)**, Computer Vision, ML Kit, TensorFlow Lite, Scikit-Learn, Flask, MediaPipe, ONNX, ROS2, SLAM.
-* **Healthcare & Enterprise Tech:** **ABDM (Ayushman Bharat Digital Mission)**, **NHCX (National Health Claims Exchange)**, **Digital Twin Dashboards**, SaaS Multi-tenancy, Patient Management Systems (OPD).
-* **Database & Storage:** **MariaDB**, Room, SQLite, Realm, Firebase Firestore, SQL, MySQL, PostgreSQL.
-* **Full-Stack & DevOps:** **Next.js**, **NestJS**, GitHub Actions, Jenkins, Firebase Functions, Azure Blob Storage, OAuth 2.0, RESTful APIs.
-* **Testing & Tools:** JUnit, Mockito, Espresso, Robolectric, Postman, Android Profiler.
-* **Agile:** Certified ScrumMaster (CSM), Sprint Planning, Daily Stand-ups, Retrospectives, Backlog Refinement.
+## Experience
+
+### GlobalDWS — Technical Product Manager · Gracebot
+**Jun 2026 — Present**
+
+Technical direction for a modular Android robotics platform, with continued hands-on work across architecture, SDKs, performance, and robot integration.
+
+### GlobalDWS — Android Developer
+**Jan 2024 — May 2026**
+
+Worked across Android robotics applications, SDK architecture, Jetpack Compose, ROS integration, JNI, navigation, on-device ML, and platform performance.
+
+### Enlightenment Infosystems — Junior Android Developer
+**Dec 2020 — Aug 2021**
+
+Built and maintained Android applications using Java, Kotlin, MVVM, and Retrofit in a collaborative development team.
 
 ---
 
-## Professional Experience
+## Engineering Focus
 
-### **GlobalDWS Corporation** | Android Developer
-*Toronto, Canada | Jan 2024 – Present*
-* **Module Engineering:** Architected and deployed high-performance Android modules for Social Engagement and Autonomous Delivery using Jetpack Compose and Kotlin.
-* **On-Device AI:** Engineered on-device facial recognition and voice interaction using ML Kit and MediaPipe, reducing response times by 50%.
-* **Autonomous Navigation:** Improved autonomous navigation accuracy by 60% through SLAM SDK integration for safe robot operation.
-* **Data Reliability:** Developed secure, offline-capable synchronization using Room and OAuth 2.0 to ensure reliable handling in low-connectivity zones.
-* **Healthcare Integration:** Integrated PointClickCare APIs for real-time care schedules and medication delivery while maintaining healthcare regulation compliance through secure data handling.
-
-### **Enlightenment Infosystems** | Junior Android Developer
-*Vadodara, India | Dec 2020 – Aug 2021*
-* **Development Support:** Assisted in building and updating Android applications, including Virtual Classroom and EdTech solutions, using Java, Kotlin, and MVVM.
-* **API Interaction:** Improved app responsiveness by integrating Retrofit for RESTful and SOAP API calls.
-* **Agile Workflow:** Collaborated in a 4-member Agile team, contributing to daily stand-ups and code reviews.
-* **Modernization:** Helped migrate legacy Java modules to Kotlin to reduce startup time and improve maintainability.
+| Area | Technologies |
+| --- | --- |
+| **Android** | Kotlin, Java, Jetpack Compose, Coroutines, Flow, MVVM, MVI |
+| **SDK / Platform** | API design, modularization, AAR/Maven publishing, R8/ProGuard, protocol design |
+| **Robotics** | ROS2, Nav2, SLAM, autonomous navigation, docking, robot telemetry |
+| **Systems** | C++, JNI, Linux, WebSockets, real-time communication |
+| **AI / Vision** | TensorFlow Lite, ML Kit, MediaPipe, on-device inference |
+| **Engineering** | JUnit, Espresso, profiling, CI/CD, GitHub Actions |
 
 ---
 
-## Projects
+## Selected Work
 
-### **Project Shield** (Distributed Threat Intelligence System)
-*Personal Project | Kotlin, Android, Gemini Nano (Local AI), VPN Service, Geofencing, DPC*
-* **Collaborative Defense:** Engineered a sophisticated, silent firewall system acting as a mission-critical defense network across 40 Android devices.
-* **Intelligent Suppression:** Utilized local Gemini Nano models for real-time sentiment analysis and threat detection to suppress harassment via silent call and SMS filtering.
-* **Non-Intrusive Protection:** Implemented VPN-based app monitoring and geofencing to ensure zero user interruption while maintaining a high security posture through Device Policy Controller (DPC) integration.
+### [Robot-Controller](https://github.com/alokrathava/Robot-Controller)
+Android robot controller and public-facing Kotlin Robot SDK work for communicating with ROS2-based robot systems.
 
-### **SmartOPD** (Healthcare SaaS Platform)
-*Full-Stack Project | Next.js, NestJS, MariaDB, ABDM/NHCX, 2D Digital Twin*
-* **Operational Digital Twin:** Developed a healthcare SaaS platform featuring a 2D Digital Twin dashboard designed for hospital outpatient department management.
-* **Compliance & Integration:** Managed technical architecture for 18 connected modules, ensuring integration with ABDM (Ayushman Bharat Digital Mission) and NHCX (National Health Claims Exchange) for digital health records and insurance workflows.
-* **Strategic Planning:** Conducted market research targeted at optimizing patient flow and management within the Indian hospital sector.
-
-### **Gracebot** (Social Engagement & Autonomous Delivery Robot)
-*GlobalDWS | Kotlin, Jetpack Compose, ML Kit, SLAM SDK, PointClickCare*
-* Designed a voice-driven user interface for elderly residents, integrating PointClickCare APIs and SLAM-based navigation to improve resident interaction across Ontario.
-
-### **Eat-Treat** (AI-Powered Food Recommendation App)
-*Personal Project | Java, Jetpack Compose, Firebase, ML Kit, Scikit-Learn, Flask*
-* Built a smart food ordering platform for college campuses with personalized meal suggestions based on ordering patterns using a custom AI model.
+### [Android & Robotics Portfolio](https://alokrathava.com)
+Case studies covering Android, robotics, SDK/platform engineering, and the systems behind the interfaces.
 
 ---
 
-## Education
-* **Bachelor's in Computer Application**, Parul University – Vadodara, India (Expected 2028).
-* **Diploma in Computer Programming**, Seneca Polytechnic – Toronto, Canada (Jan 2022 – Dec 2023).
-* **Diploma in Computer Engineering**, The Maharaja Sayajirao University of Baroda – India (Aug 2017 – Apr 2020).
+## Education & Certification
+
+- **Bachelor of Computer Applications** — Parul University *(Expected 2028)*
+- **Diploma in Computer Programming** — Seneca Polytechnic
+- **Diploma in Computer Engineering** — The Maharaja Sayajirao University of Baroda
+- **Certified ScrumMaster (CSM)** — Scrum Alliance
 
 ---
 
-## Certifications
-* **Certified Scrum Master (CSM)** – Scrum Alliance (Jan 2026).
+### Current direction
+
+I am particularly interested in engineering work involving **Android platforms, robotics, SDK development, embedded/edge systems, ROS2, and software that connects applications to physical hardware**.
